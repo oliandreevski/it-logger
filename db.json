@@ -1,0 +1,15 @@
+{
+  "logs": [],
+  "techs": [
+    {
+      "firstName": "Oliver",
+      "lastName": "Andreevski",
+      "id": 1
+    },
+    {
+      "firstName": "Goran",
+      "lastName": "Andreevski",
+      "id": 2
+    }
+  ]
+}
